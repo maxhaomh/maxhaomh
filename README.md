@@ -2,7 +2,7 @@
 
 **Software Engineer** | **Mathematics & Computer Science at Rutgers University**
 
-Engineering high-performance inference for the intelligent edge. Specializing in NPU optimization and IoT systems.
+Building high-performance inference for the intelligent edge. Interested in NPU optimization and IoT systems.
 
 ### Contact
 * **Website**: [maxhao.org](https://maxhao.org)
